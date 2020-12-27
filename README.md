@@ -1,8 +1,8 @@
-# Codecademy-Data-Analysis-1<br>
+# Codecademy-Data-Analysis-1
 This repo includes a python script, a jupyter notebook (.ipynb file), and a csv file
 
 *********Introduction**********
-This is a jupyter data analysis project on US medical insurance costs<br>
+This is a jupyter data analysis project on US medical insurance costs
 Click into the codecademy-umicda.ipynb file to see what its about<br>
 
 Here's a short summary:<br>
