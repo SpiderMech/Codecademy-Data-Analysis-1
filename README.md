@@ -35,3 +35,5 @@ Instructions are here: https://jupyter.org/install <br>
 jupyter notebook
 
 5. Once the page is loaded in your web-browser, simply click the file to open it
+
+ofcourse, you can also simply just view the file on GitHub
