@@ -2,6 +2,7 @@
 This repo includes a python script, a jupyter notebook (.ipynb file), and a csv file
 
 *********Introduction**********
+
 This is a jupyter data analysis project on US medical insurance costs
 Click into the codecademy-umicda.ipynb file to see what its about<br>
 
@@ -17,6 +18,7 @@ a high medical cost is a high BMI score and being a smoker!<br>
 
 
 *********How to Run***********
+
 To run this file, you need to have the following things installed:
 
 1. Package manager: miniconda or pip are both fine
