@@ -1,7 +1,7 @@
 # Codecademy-Data-Analysis-1
 This repo includes a python script, a jupyter notebook (.ipynb file), and a csv file
 
-*********Introduction**********
+*********Introduction*********
 
 This is a jupyter data analysis project on US medical insurance costs
 Click into the codecademy-umicda.ipynb file to see what its about<br>
@@ -17,7 +17,7 @@ From this project, we can infer (may not apply to the real world) that the bigge
 a high medical cost is a high BMI score and being a smoker!<br>
 
 
-*********How to Run***********
+*********How to Run*********
 
 To run this file, you need to have the following things installed:
 
